@@ -1,1 +1,1 @@
-請點選最下方的ticket.py
+程式碼為最下方的ticket.py
